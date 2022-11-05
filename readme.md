@@ -1,3 +1,5 @@
+# Dataset
+https://www.kaggle.com/datasets/mathchi/diabetes-data-set
 # Запуск:
 ``
 diabetes.csv diabetes.csv results.csv
